@@ -1,4 +1,3 @@
-````markdown
 # 3vSkool Student Admission Portal
 
 A full-stack student admission and enrollment portal built with **Next.js, TypeScript, PostgreSQL, Drizzle ORM, Better Auth, Tailwind CSS, and Razorpay**.
@@ -86,7 +85,7 @@ Admin Portal
 ├── Payment Details
 ├── Admission Decisions
 └── Audit History
-````
+
 
 ---
 
